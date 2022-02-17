@@ -11,8 +11,8 @@ This repository implements the following:
 
 None of the implementations of the algorithms in this repository are meant to be fast or memory efficient. The aim to to keep them easy to understand and mirror the processes I have studied for manually applying the above theory.
 
-# 3rd Party Dependencies
-We use numpy and sympy to solve systems of equations that fall outside of the scope of the linear algebra I am studying or are
+# 3rd-Party Dependencies
+I use numpy and sympy to solve systems of equations that fall outside of the scope of the linear algebra I am studying or are
 difficult to do systematically. For example, sympy is used to solve the roots of a polynomial equations produced when finding eigen values or eigen vectors.
 
 # Usage
